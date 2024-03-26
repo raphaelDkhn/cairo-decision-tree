@@ -1,0 +1,11 @@
+[package]
+name = "cairo_dt"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cairo-lang-sierra-to-casm = { version = "2.5.4", default-features = false }
+cairo-lang-sierra = { version = "2.5.4", default-features = false }
+cairo-lang-sierra-ap-change = { version = "2.5.4", default-features = false }
