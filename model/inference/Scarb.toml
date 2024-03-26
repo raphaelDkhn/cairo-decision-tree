@@ -36,7 +36,7 @@ _operators_0_constant_14_value = { path = "../attributes/_operators_0_constant_1
 _operators_0_constant_15_value = { path = "../attributes/_operators_0_constant_15_value"} 
 _operators_0_constant_16_value = { path = "../attributes/_operators_0_constant_16_value"} 
 constant_69_value = { path = "../attributes/constant_69_value"} 
-orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "13f039f" } 
+orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "bde88b6" } 
 
 [lib]
 sierra-text = true
